@@ -9,6 +9,18 @@
 	color: #CC00AA;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h3, h4, h5 {
 	color: #8382BF;
+}
+
+h2 {
+	color: #A1D490;
+}
+
+.friend {
+	width: 450px;
+}
+
+.friend p{
+	color: #083240;
 }
